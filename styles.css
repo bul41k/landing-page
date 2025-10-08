@@ -15,10 +15,11 @@ a {
 .header .container {
     display: flex;
     justify-content: space-between;
+    padding: 16px;
 }
 ul {
     display: flex;
     flex-direction: row;
-    gap: 15px;
+    gap: 75px;
     list-style-type: none;
 }
