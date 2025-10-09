@@ -8,6 +8,8 @@ body {
     background-color: #0D0D0D;
     color: #fff;
 }
+
+/* header */
 a {
     text-decoration: none;
     color: #fff;
@@ -15,7 +17,7 @@ a {
 .header .container {
     display: flex;
     justify-content: space-between;
-    padding: 16px;
+    margin: 16px 75px;
 }
 ul {
     display: flex;
@@ -23,3 +25,45 @@ ul {
     gap: 75px;
     list-style-type: none;
 }
+
+
+/* hero section */
+.hero {
+    margin-top: 150px;
+}
+.hero .container {
+    display: flex;
+    margin: 16px 75px;
+    justify-content: space-between;
+}
+.hero-left {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 494px;
+    height: 354px;
+    gap: 15px;
+}
+.hero img {
+    width: 640px;
+    height: 426px;
+}
+.hero h1 {
+    font-size: 48px;
+    font-weight: 800;
+}
+.hero p {
+    font-size: 18px;
+    font-weight: 400;
+}
+.hero button {
+    cursor: pointer;
+    border: none;
+    border-radius: 27px;
+    padding: 16px 30px;
+    background-color: #4D734A;
+    color: #fff;
+}
+
+
