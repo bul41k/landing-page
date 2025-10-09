@@ -64,6 +64,15 @@ ul {
     padding: 16px 30px;
     background-color: #4D734A;
     color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+}
+
+.hero button:hover {
+    background-color: #35532f;
+    transform: translateY(-4px) scale(1.04);
+    box-shadow: 0 8px 24px rgba(77, 115, 74, 0.2);
 }
 
 
