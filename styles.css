@@ -177,3 +177,20 @@ ul {
     font-size: 18px;
 }
 
+/* footer */
+.footer {
+    margin-top: 150px;
+    width: 1440px;
+    height: 120px;
+    background-color: #162520;
+}
+.footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer p {
+    font-size: 18px;
+    font-weight: 200px;
+}
+
