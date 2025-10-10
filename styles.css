@@ -94,4 +94,31 @@ ul {
     width: 300px;
     height: 300px;
 }
+/* quote section */
+.quote {
+    margin-top: 150px;
+    background-color: #2B4039;
+    width: 1440px;
+    height: 303px;
+}
+.quote .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.quote-item {
+    width: 720px;
+    height: 88px;
+}
+.quote p {
+    display: flex;
+    justify-content: end;
+}
+.quote h2 {
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+}
+
 
