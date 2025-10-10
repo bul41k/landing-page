@@ -22,7 +22,7 @@ All images used in this project are for educational purposes only.
 - Flexbox  
 
 ## 🚀 Status
-Project in progress — styling and layout improvements coming soon.
+✅ Project completed
 
 ## 📚 Credits
 Project idea and instructions from [The Odin Project](https://www.theodinproject.com/).
