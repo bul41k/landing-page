@@ -104,6 +104,7 @@ ul {
 .info p {
     font-size: 18px;
 }
+
 /* quote section */
 .quote {
     margin-top: 150px;
@@ -131,4 +132,48 @@ ul {
     font-style: italic;
 }
 
+/* call to action section */
+.cta {
+    margin-top: 150px;
+    width: 1301px;
+    height: 182px;
+}
+.cta .container {
+    background-color: #4D734A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 16px 75px;
+    gap: 125px;
+}
+
+.cta button {
+    cursor: pointer;
+    border: #fff 2px solid;
+    background-color: transparent;
+    color: #fff;
+    padding: 16px 60px;
+    border-radius: 21px;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 
+        background 0.3s,
+        color 0.3s,
+        box-shadow 0.3s,
+        transform 0.2s;
+}
+
+.cta button:hover {
+    background-color: #fff;
+    color: #4D734A;
+    box-shadow: 0 0 24px 4px rgba(255,255,255,0.5);
+    transform: translateY(-3px) scale(1.04);
+}
+.cta h3 {
+    font-size: 24px;
+    font-weight: 800;
+}
+.cta p {
+    font-size: 18px;
+}
 
