@@ -14,7 +14,7 @@ This project is focused on practicing basic HTML and CSS, including:
 All images used in this project are for educational purposes only.
 
 - Hero image: [cro magnon13](https://pixabay.com/users/cromagnon130-611261/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6123746) from [Pixabay](https://pixabay.com/photos/teapot-tea-traditional-ceremony-6123746/)
-
+- Info image: [Eva Bronzini](https://www.pexels.com/@eva-bronzini/) from [Pexels](https://www.pexels.com/photo/a-person-pouring-tea-on-a-cup-5501119/)
 
 ## ⚙️ Technologies Used
 - HTML5  
