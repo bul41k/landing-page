@@ -109,7 +109,7 @@ ul {
 .quote {
     margin-top: 150px;
     background-color: #2B4039;
-    width: 1440px;
+    width: auto;
     height: 303px;
 }
 .quote .container {
@@ -135,7 +135,7 @@ ul {
 /* call to action section */
 .cta {
     margin-top: 150px;
-    width: 1301px;
+    width: auto;
     height: 182px;
 }
 .cta .container {
@@ -145,6 +145,7 @@ ul {
     align-items: center;
     margin: 16px 75px;
     gap: 125px;
+    border-radius: 21px;
 }
 
 .cta button {
@@ -180,7 +181,7 @@ ul {
 /* footer */
 .footer {
     margin-top: 150px;
-    width: 1440px;
+    width: auto;
     height: 120px;
     background-color: #162520;
 }
