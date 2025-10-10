@@ -75,4 +75,23 @@ ul {
     box-shadow: 0 8px 24px rgba(77, 115, 74, 0.2);
 }
 
+/* info section */
+.info {
+    margin-top: 150px;
+    text-align: center;
+}
+.info .container {
+    display: flex;
+    justify-content: space-between;
+    margin: 16px 75px;
+}
+.info-item {
+    width: 310px;
+    height: 409px;
+}
+
+.info img {
+    width: 300px;
+    height: 300px;
+}
 
